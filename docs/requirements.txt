@@ -2,8 +2,9 @@ mkdocs
 mkdocs-material
 pymdown-extensions
 markdown-callouts
-git+https://github.com/oprypin/mkdocstrings-crystal@master
-git+https://github.com/oprypin/mkdocs-literate-nav@master
-git+https://github.com/oprypin/mkdocs-section-index@master
-git+https://github.com/oprypin/mkdocs-gen-files@master
-git+https://github.com/oprypin/mkdocs-code-validator@master
+git+https://github.com/mkdocstrings/mkdocstrings@master
+git+https://github.com/mkdocstrings/crystal@master
+mkdocs-literate-nav
+mkdocs-section-index
+mkdocs-gen-files
+mkdocs-code-validator
